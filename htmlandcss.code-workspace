@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../htmlandcss"
+		},
+		{
+			"path": "../Form"
+		},
+		{
+			"path": "../JavaScript"
+		},
+		{
+			"path": "../Calculation"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../React"
+		},
+		{
+			"path": "../Food_Ordering_App"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Captcha"
+	}
+}
